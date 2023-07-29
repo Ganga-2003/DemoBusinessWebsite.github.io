@@ -47,8 +47,8 @@
 }
 
 .img-response {
-    inline-size: 200px;
-    block-size: 200px;
+    inline-size: 150px;
+    block-size: 180px;
     object-fit: fill;
     border-radius: 100%;
     margin-block-start: 20px;
@@ -101,6 +101,13 @@ p {
 
 
 /* header*/
+.prop{
+    position: relative;
+    top: 20px;
+    left: 15px;
+    color: crimson;
+    font: bolder;
+}
 
 .fixed-header {
     position: fixed;
